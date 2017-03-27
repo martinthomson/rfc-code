@@ -4,8 +4,8 @@
 
 Network Working Group                                         M. Thomson
 Internet-Draft                                                   Mozilla
-Intended status: Best Current Practice                 November 22, 2016
-Expires: May 26, 2017
+Intended status: Best Current Practice                    March 27, 2017
+Expires: September 28, 2017
 
 
                   The Use of Source Code in IETF RFCs
@@ -32,11 +32,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on May 26, 2017.
+   This Internet-Draft will expire on September 28, 2017.
 
 Copyright Notice
 
-   Copyright (c) 2016 IETF Trust and the persons identified as the
+   Copyright (c) 2017 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -53,9 +53,9 @@ Copyright Notice
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 1]
+Thomson                Expires September 28, 2017               [Page 1]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
 Table of Contents
@@ -109,9 +109,9 @@ Table of Contents
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 2]
+Thomson                Expires September 28, 2017               [Page 2]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
 2.  The Errata process
@@ -165,9 +165,9 @@ Internet-Draft                Code in RFCs                 November 2016
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 3]
+Thomson                Expires September 28, 2017               [Page 3]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
 4.1.  Source Code Extraction and Use
@@ -221,9 +221,9 @@ Internet-Draft                Code in RFCs                 November 2016
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 4]
+Thomson                Expires September 28, 2017               [Page 4]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
    Just from the Opus changelog, it's clear that compatibility problems
@@ -277,9 +277,9 @@ Internet-Draft                Code in RFCs                 November 2016
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 5]
+Thomson                Expires September 28, 2017               [Page 5]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
 5.2.  Define "IETF" source code repositories
@@ -333,9 +333,9 @@ Internet-Draft                Code in RFCs                 November 2016
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 6]
+Thomson                Expires September 28, 2017               [Page 6]
 
-Internet-Draft                Code in RFCs                 November 2016
+Internet-Draft                Code in RFCs                    March 2017
 
 
    [RFC6351]  Perreault, S., "xCard: vCard XML Representation",
@@ -389,4 +389,4 @@ Author's Address
 
 
 
-Thomson                   Expires May 26, 2017                  [Page 7]
+Thomson                Expires September 28, 2017               [Page 7]
