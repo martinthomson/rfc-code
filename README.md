@@ -3,7 +3,7 @@
 This is the working area for the Individual internet-draft, "The Use of Source Code in IETF RFCs".
 
 * [Editor's copy](https://martinthomson.github.io/rfc-code/)
-* [Individual Draft] (https://tools.ietf.org/html/draft-thomson-code-in-rfcs)
+* [Individual Draft](https://tools.ietf.org/html/draft-thomson-code-in-rfcs)
 
 
 ## Building the Draft
